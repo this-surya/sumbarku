@@ -8,7 +8,7 @@ export default function Jumbotron(){
     return(
         
 
-<section class="bg-white dark:bg-[url('../../public/minangkabau.webp')] bg-no-repeat bg-cover min-h-screen flex items-center">
+<section class="bg-[url('../../public/minangkabau.webp')] bg-no-repeat bg-cover min-h-screen flex items-center">
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
         <div class="flex flex-col justify-center ">
 
