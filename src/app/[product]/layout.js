@@ -5,9 +5,7 @@ export default function DetailLayout({children}){
     return(
         <main className="bg-gray-500 text-white">
             
-        <Navbar />
         {children}
-        <Footer />
         </main>
     )
 }
